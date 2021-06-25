@@ -1,5 +1,5 @@
 # Responsive Web Design Projects - Build a Tribute Page
-> freeCodeCamp - Certificação Treinamento Web Design Responsivo | Projeto 01 - Construa uma página tributo
+> Free Code Camp - Certificação Treinamento Web Design Responsivo | Projeto 01 - Construa uma página tributo
 
 ## Objective
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
